@@ -8,6 +8,8 @@
 
 21-805-0207 Lab 4 - Java Programming Lab
 
+21-805-0306 Lab 5 - Algorithms Lab 
+
 21-805-0506 Lab 9 - R for Data Science Lab
 
 21-805-0606 Lab 11 - Machine Learning and Parallel Computing Lab 
