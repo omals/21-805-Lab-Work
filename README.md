@@ -1,4 +1,4 @@
-# Lab Works - Semester 7
+# Lab Works 
 
 21-805-0106 Lab 1 - Python Programming Lab
 
