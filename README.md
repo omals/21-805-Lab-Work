@@ -6,6 +6,8 @@
 
 21-805-0206 Lab 3 - Data Structures Lab
 
+21-805-0207 Lab 4 - Java Programming Lab
+
 21-805-0506 Lab 9 - R for Data Science Lab
 
 21-805-0606 Lab 11 - Machine Learning and Parallel Computing Lab 
